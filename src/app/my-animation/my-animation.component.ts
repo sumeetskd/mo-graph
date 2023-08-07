@@ -1,4 +1,4 @@
-import { gsap } from 'gsap';
+import { TweenMax, Power2, gsap } from 'gsap';
 import { Component, ElementRef, OnInit, AfterViewInit } from '@angular/core';
 
 @Component({
