@@ -1,5 +1,5 @@
-import { Component, OnInit } from '@angular/core';
 import { gsap } from 'gsap';
+import { Component, ElementRef, OnInit, AfterViewInit } from '@angular/core';
 
 @Component({
   selector: 'app-my-animation',
